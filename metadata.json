@@ -1,0 +1,7 @@
+{
+  "name": "GENZEE.Fits",
+  "description": "A cutting-edge fashion e-commerce platform for Gen Z featuring AI-driven style recommendations, a personal fashion consultant, and high-energy visual experiences.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
